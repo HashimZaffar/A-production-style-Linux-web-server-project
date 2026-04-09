@@ -1,0 +1,12 @@
+System Report
+Generated: 2026-04-09 09:54:30
+
+Hostname: ip-172-31-81-24
+Operating System: Linux
+OS Release: 6.17.0-1009-aws
+Python Version: 3.12.3
+
+Disk Usage:
+- Total: 28.02 GB
+- Used: 3.89 GB
+- Free: 24.11 GB
